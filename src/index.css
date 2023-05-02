@@ -14,5 +14,10 @@ body{
  {
     width: 100px !important;
     }
+    body{
+        overflow-x: hidden  !important; 
+    }
+
+
   }
   
